@@ -8,7 +8,6 @@ plugins {
     id("io.ktor.plugin") version "2.3.7"
     id("org.jetbrains.kotlin.plugin.serialization") version "1.9.21"
 
-
 }
 
 group = "crud_bd"
